@@ -15,6 +15,8 @@ This is the note of course "Python3入门机器学习 经典算法与应用" in 
    
    
    
+   
+   :caption: Contents:
 
 
 
