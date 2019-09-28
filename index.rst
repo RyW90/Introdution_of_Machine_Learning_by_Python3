@@ -10,7 +10,7 @@ Welcome to Introdution_of_Machine_Learning's documentation!
    :maxdepth: 2
    
    1&2 机器学习基础
-   
+   3Jupyter Notebook and Numpy
    :caption: Contents:
 
 
