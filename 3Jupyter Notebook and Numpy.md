@@ -11,10 +11,10 @@
 
 ```%time```只运行一次记录时间
 
-### Numpy
+### numpy array创建
 
 ``` 
-import numpy as np
+import numpy as np    #调用numpy库
 ```
 
 ```nparr = np.array([i for i in range(10)])```
