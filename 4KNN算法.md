@@ -15,3 +15,8 @@ KNN算法中K是超参数
 
 
 $$\begin{Vmatrix}1 & 2\\\\3 &4\end{Vmatrix}$$
+
+
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
