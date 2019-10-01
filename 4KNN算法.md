@@ -1,6 +1,6 @@
 # 4 KNN算法
 ---
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ### 基本概念
 K-Nearest Nrighbors K近邻算法 KNN
 找出最近的K个点，并对测试数据集进行分类
@@ -14,9 +14,4 @@ KNN算法没有模型参数
 KNN算法中K是超参数
 
 
-$$\begin{Vmatrix}1 & 2\\\\3 &4\end{Vmatrix}$$
-
-
-
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
