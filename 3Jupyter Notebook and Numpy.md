@@ -77,6 +77,15 @@ np.array与只有一行的矩阵不同
 
 ### np矩阵的合并与拆分
 
+### skleran数据加载
+
+<pre><code>from sklearn import datasets()
+iris = datasets.load_iris()
+iris.data	#显示dataset的data
+iris.key()	#显示dataset的key
+</code></pre>
+
+
 
 
 
