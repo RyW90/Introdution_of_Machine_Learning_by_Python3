@@ -11,6 +11,7 @@ Welcome to Introdution_of_Machine_Learning's documentation!
    
    1&2 机器学习基础
    3Jupyter Notebook and Numpy
+   4KNN算法
    :caption: Contents:
 
 

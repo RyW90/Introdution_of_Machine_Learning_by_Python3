@@ -1,0 +1,17 @@
+# 4 KNN算法
+---
+
+### 基本概念
+K-Nearest Nrighbors K近邻算法 KNN
+找出最近的K个点，并对测试数据集进行分类
+
+超参数hyperparameter：在算法运行前就需要决定的参数
+
+模型参数parameters： 在算法过程中学习到的参数
+
+KNN算法没有模型参数
+
+KNN算法中K是超参数
+
+
+$$\begin{Vmatrix}1 & 2\\\\3 &4\end{Vmatrix}$$
