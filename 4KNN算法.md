@@ -19,4 +19,4 @@ $$\sum \left| {x_i^\left(a\right) - x_i^\left(n\right) }\right|$$
 
 明可夫斯基距离
 
-$$\left(\sum\left(x_i^\left(a\right) - x_i^\left(n\right)^p\right)^\frac{1}{p}$$
+$$\left(\sum\left({x_i^\left(a\right)} - {x_i^\left(n\right)}\right)^p\right)^{\frac{1}{p}}$$
