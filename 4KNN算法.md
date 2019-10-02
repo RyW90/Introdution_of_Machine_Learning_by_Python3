@@ -15,5 +15,8 @@ KNN算法中K是超参数
 
 曼哈顿距离
 
-$$\sum \left| x_i^\left(a\right) - x_i^\left(n\right) \right|$$
+$$\sum \left| {x_i^\left(a\right) - x_i^\left(n\right) }\right|$$
 
+明可夫斯基距离
+
+$$\left(\sum\left(x_i^\left(a\right) - x_i^\left(n\right)^p\right)^\frac{1}{p}$$
