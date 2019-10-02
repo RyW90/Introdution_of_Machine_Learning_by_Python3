@@ -13,5 +13,7 @@ KNN算法没有模型参数
 
 KNN算法中K是超参数
 
+曼哈顿距离
 
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+$$\sum \left| x_i^\left(a\right) - x_i^\left(n\right) \right|$$
+
